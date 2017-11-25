@@ -1,10 +1,7 @@
 # LearnGit
 This wiki will share all the article , video links, cheatsheet to learn GIT 
 
-https://github.com/simplymanas/LearnGit/wiki/Learning-GIT-in-various-ways
-
-
-[Medium](https://medium.com/@simplymanas/learning-github-in-various-way-f74c229f88be)
+### This was published by me in [Medium](https://medium.com/@simplymanas/learning-github-in-various-way-f74c229f88be)
 
 
 The aim of this article is to let you know how and where can you start learning about GIT and GITHUB. Learn the way you like it either visually or reading books or you may go for an online training video, or reading articles, even you can play games to learn it.
