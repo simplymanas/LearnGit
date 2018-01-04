@@ -1,5 +1,6 @@
-# LearnGit
-This wiki will share all the article , video links, cheatsheet to learn GIT 
+# LearnGit [![Help Contribute to Open Source](https://www.codetriage.com/simplymanas/learngit/badges/users.svg)](https://www.codetriage.com/simplymanas/learngit)
+
+This wiki will share all the article , video links, cheatsheet to learn GIT
 
 ### This was published by me in [Medium](https://medium.com/@simplymanas/learning-github-in-various-way-f74c229f88be)
 
