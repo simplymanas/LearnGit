@@ -35,6 +35,8 @@ How about playing a game which has a series of levels, each requiring you to use
 
 [GIT for Visual Studio Developers](https://app.pluralsight.com/library/courses/git-visual-studio-developers/table-of-contents)
 
+[GIT SCM videos](https://git-scm.com/videos)
+
 **Code School**
 [Play List](https://www.codeschool.com/learn/git)
 
