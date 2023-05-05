@@ -60,6 +60,9 @@ Check some cool github logos at [Octodex] (https://octodex.github.com/)
 ### A developer’s introduction to GitHub
 [blog post in medium.freecodecamp](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
+### Learn git branching
+[Awesome](https://learngitbranching.js.org/)
+
 ### F1 : help
 [Helpon github](https://help.github.com/)
 
